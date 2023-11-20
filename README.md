@@ -82,18 +82,18 @@ CONTACT
 ![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/57e88897-947a-4630-988d-5407310ad994)
 
 TECHNOLOGIES USED:
-Containers
-static web hosting
-resource manager
-resource group
-blob storage 
-storage account
+Containers,
+static web hosting,
+resource manager,
+resource group,
+blob storage, 
+storage account.
 
 Future Ready Talent Project done by:
-Neha Doggalli
-Shalini C
-Kruthika Rani DS
-Sindhu BS
+Neha Doggalli,
+Shalini C,
+Kruthika Rani DS,
+Sindhu BS.
 
 
   
