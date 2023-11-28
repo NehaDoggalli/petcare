@@ -4,7 +4,6 @@ MY PET CARE
 
 PROJECT URL:
 https://littlepuppycare.z19.web.core.windows.net/
-
 DESCRIPTION
 PetCareConnect is your go-to online hub for all things pet-related, offering a comprehensive platform that combines information, services, and products to enhance the well-being of your furry friends.
 
@@ -65,21 +64,25 @@ A visually appealing and user-friendly interface that adapts seamlessly to vario
 PetCareConnect strives to be a central platform where pet owners can find everything they need to care for their pets, from essential services and information to a supportive community and quality products. The website is designed to be informative, engaging, and user-centric, fostering a sense of connection among pet enthusiasts.
 
 HOME PAGE
-![Screenshot (1)](https://github.com/NehaDoggalli/petcare/assets/149229837/79c9548d-040f-4924-bbd9-fb708b1215e3)
-![Screenshot (2)](https://github.com/NehaDoggalli/petcare/assets/149229837/4ae83c91-2245-4146-83dc-a5b162897fce)
-![Screenshot (7)](https://github.com/NehaDoggalli/petcare/assets/149229837/d3ccba3d-1e06-402d-97f7-2a84a6666689)
+![Screenshot (9)](https://github.com/NehaDoggalli/petcare/assets/149229837/b5bd3cf3-a9eb-43d1-bab0-d1a2d63aad1a)
+![Screenshot (11)](https://github.com/NehaDoggalli/petcare/assets/149229837/efd4d64d-f0eb-4687-b073-6f106bf653e0)
+![Screenshot (12)](https://github.com/NehaDoggalli/petcare/assets/149229837/695bf003-326e-457e-9a38-ff032a29287e)
 
-ABOUT PAGE
-![Screenshot (9)](https://github.com/NehaDoggalli/petcare/assets/149229837/9a582c4e-ffdb-41f4-9935-a842a477d5de)
-![Screenshot (10)](https://github.com/NehaDoggalli/petcare/assets/149229837/b9cbc98e-47c8-4cfc-9d7b-78c0177dfec8)
+ ABOUT PAGE
 
-SERVICES
-![Screenshot (11)](https://github.com/NehaDoggalli/petcare/assets/149229837/c4aa59cc-8448-4d4f-9959-91cc92ce9536)
-![Screenshot (12)](https://github.com/NehaDoggalli/petcare/assets/149229837/0640ea51-1cc9-4f27-b514-f04cf3fe3118)
-![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/b4cfa898-c8b0-449b-b1f5-fc06457b3742)
+![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/b831b37a-8f94-439b-817b-b5058d03fa30)
+![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/45e2f7f6-2901-4cdf-a6af-d592ab226068)
 
-CONTACT
-![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/57e88897-947a-4630-988d-5407310ad994)
+SERVICES PAGE
+![Screenshot (18)](https://github.com/NehaDoggalli/petcare/assets/149229837/806f269b-fe1c-4b60-8ed0-1029446e4edd)
+![Screenshot (17)](https://github.com/NehaDoggalli/petcare/assets/149229837/eef05fb1-76f4-41cc-80d6-545523f63d13)
+![Screenshot (16)](https://github.com/NehaDoggalli/petcare/assets/149229837/04d9d9aa-5c23-49bc-95f5-9b4d52e78fb7)
+![Screenshot (15)](https://github.com/NehaDoggalli/petcare/assets/149229837/1e9550b7-f7e2-42ac-b169-74f787e367bf)
+
+
+
+
+
 
 TECHNOLOGIES USED:
 Containers,
