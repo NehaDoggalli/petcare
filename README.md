@@ -64,25 +64,20 @@ A visually appealing and user-friendly interface that adapts seamlessly to vario
 PetCareConnect strives to be a central platform where pet owners can find everything they need to care for their pets, from essential services and information to a supportive community and quality products. The website is designed to be informative, engaging, and user-centric, fostering a sense of connection among pet enthusiasts.
 
 HOME PAGE
-![Screenshot (9)](https://github.com/NehaDoggalli/petcare/assets/149229837/cdf9bb46-3349-4323-b9e6-e183102f0130)
-![Screenshot (11)](https://github.com/NehaDoggalli/petcare/assets/149229837/19a36bf2-4ebf-4bfb-be3f-1fe1764d7b37)
-![Screenshot (12)](https://github.com/NehaDoggalli/petcare/assets/149229837/6d0d6cde-bf42-4a88-b22b-e158ad5ee720)
-
+![Screenshot (5)](https://github.com/NehaDoggalli/petcare/assets/149229837/1f93788a-3cba-4b74-8bc6-a8855d4784d7)
+![Screenshot (6)](https://github.com/NehaDoggalli/petcare/assets/149229837/4dfbefc6-2803-49bb-9a74-558f3981ba54)
+![Screenshot (7)](https://github.com/NehaDoggalli/petcare/assets/149229837/89f2a800-7afb-4bf5-95fc-47d21dd21c2c)
+![Screenshot (8)](https://github.com/NehaDoggalli/petcare/assets/149229837/b681767b-a69e-42fa-81ab-e2fa18af0778)
 
  ABOUT PAGE
-
-![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/cd475c12-0462-433d-81a2-cf50c407034a)
-![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/06c9dac4-f1da-4b0c-a5af-0236b3afc6ee)
+![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/35a115b7-feba-4f3b-bdec-65d9cf310746)
+![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/4fa618e3-d5bd-40ef-a24a-94b16f2169e3)
 
 SERVICES PAGE
-![Screenshot (18)](https://github.com/NehaDoggalli/petcare/assets/149229837/806f269b-fe1c-4b60-8ed0-1029446e4edd)
-![Screenshot (17)](https://github.com/NehaDoggalli/petcare/assets/149229837/eef05fb1-76f4-41cc-80d6-545523f63d13)
-![Screenshot (16)](https://github.com/NehaDoggalli/petcare/assets/149229837/04d9d9aa-5c23-49bc-95f5-9b4d52e78fb7)
-![Screenshot (15)](https://github.com/NehaDoggalli/petcare/assets/149229837/1e9550b7-f7e2-42ac-b169-74f787e367bf)
-
-
-
-
+![Screenshot (15)](https://github.com/NehaDoggalli/petcare/assets/149229837/52943456-ee8f-46ba-9be9-fd8d10c71cc8)
+![Screenshot (16)](https://github.com/NehaDoggalli/petcare/assets/149229837/8f71258a-1a87-4a84-967c-967ae74a51c0)
+![Screenshot (17)](https://github.com/NehaDoggalli/petcare/assets/149229837/8181652f-0d69-4bdc-93fa-d83150154bbb)
+![Screenshot (18)](https://github.com/NehaDoggalli/petcare/assets/149229837/c48327d6-8caf-4c1b-8e39-6eebd475cd32)
 
 
 TECHNOLOGIES USED:
