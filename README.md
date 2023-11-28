@@ -64,14 +64,15 @@ A visually appealing and user-friendly interface that adapts seamlessly to vario
 PetCareConnect strives to be a central platform where pet owners can find everything they need to care for their pets, from essential services and information to a supportive community and quality products. The website is designed to be informative, engaging, and user-centric, fostering a sense of connection among pet enthusiasts.
 
 HOME PAGE
-![Screenshot (9)](https://github.com/NehaDoggalli/petcare/assets/149229837/b5bd3cf3-a9eb-43d1-bab0-d1a2d63aad1a)
-![Screenshot (11)](https://github.com/NehaDoggalli/petcare/assets/149229837/efd4d64d-f0eb-4687-b073-6f106bf653e0)
-![Screenshot (12)](https://github.com/NehaDoggalli/petcare/assets/149229837/695bf003-326e-457e-9a38-ff032a29287e)
+![Screenshot (9)](https://github.com/NehaDoggalli/petcare/assets/149229837/cdf9bb46-3349-4323-b9e6-e183102f0130)
+![Screenshot (11)](https://github.com/NehaDoggalli/petcare/assets/149229837/19a36bf2-4ebf-4bfb-be3f-1fe1764d7b37)
+![Screenshot (12)](https://github.com/NehaDoggalli/petcare/assets/149229837/6d0d6cde-bf42-4a88-b22b-e158ad5ee720)
+
 
  ABOUT PAGE
 
-![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/b831b37a-8f94-439b-817b-b5058d03fa30)
-![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/45e2f7f6-2901-4cdf-a6af-d592ab226068)
+![Screenshot (13)](https://github.com/NehaDoggalli/petcare/assets/149229837/cd475c12-0462-433d-81a2-cf50c407034a)
+![Screenshot (14)](https://github.com/NehaDoggalli/petcare/assets/149229837/06c9dac4-f1da-4b0c-a5af-0236b3afc6ee)
 
 SERVICES PAGE
 ![Screenshot (18)](https://github.com/NehaDoggalli/petcare/assets/149229837/806f269b-fe1c-4b60-8ed0-1029446e4edd)
